@@ -1,0 +1,1 @@
+![capture](https://github.com/mahkande/settingPopup/blob/master/img/Capture.PNG)
